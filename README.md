@@ -2,21 +2,6 @@
 
 ### I'm Damian and I'm a beginner programmer self-taught, open to all kinds of technologies.
 
-
-</p>
-  <p align="center">
-    <a href="https://github.com/DamianoK89/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/DamianoK89/github-readme-stats" />
-    </a>
-    <a href="https://github.com/DamianoK89/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/DamianoK89/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/DamianoK89/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/DamianoK89/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DamianoK89&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianoK89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
